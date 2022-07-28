@@ -1,5 +1,6 @@
 # juice-wrld
-bang bang chief sosa
+simple work and deposit discord bot
+works with dank memer and unbelievaboat (and probably more)
 
 
 # installation
