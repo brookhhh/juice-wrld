@@ -33,9 +33,9 @@ class MyClient(discord.Client):
             if message.content == 'start':
                 while 6 > 4:
                     identifier = random.uniform(1, 9000)
-                    await message.channel.send(prefix + 'work')  # https://www.reddit.com/r/introvert/comments/3ewxpe/how_many_of_you_introverts_just_work_sleep_eat/
+                    await message.channel.send(prefix + ' work')  # https://www.reddit.com/r/introvert/comments/3ewxpe/how_many_of_you_introverts_just_work_sleep_eat/
                     time.sleep(0.7)
-                    await message.channel.send(prefix + 'dep all')  # imagine deposit as eating
+                    await message.channel.send(prefix + ' dep all')  # imagine deposit as eating
                     print("cycle id number", identifier, "done, sleeping for", delay, "s\n")  # sometimes this will throw an error for some reason
                     time.sleep(int(delay))
 
