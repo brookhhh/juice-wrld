@@ -24,7 +24,7 @@ class MyClient(discord.Client):
         class MyClient(discord.Client):
 
             async def on_ready(self):
-                print('logged on account, ready to bot')
+                print('logged on account, ready to bot') # this doesnt appear i literally got no reason for it to exist lol
 
         async def on_message(self, message):
             if message.author != self.user:
