@@ -1,5 +1,5 @@
 # juice-wrld
-simple work and deposit discord bot,
+simple work and deposit discord selfbot,
 works with dank memer and unbelievaboat (and probably more)
 
 
